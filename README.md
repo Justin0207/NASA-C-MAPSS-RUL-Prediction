@@ -339,17 +339,14 @@ pip install torch numpy pandas scikit-learn scipy matplotlib captum
 For the complete pipeline:
 
 ```text
-sacnn-pred_multiseed.ipynb
+cmapss-prediction.ipynb
 ```
 
 Alternatively, the notebooks can be executed simultaneously:
 
 ```text
-sacnn-pred_multiseed.ipynb
-sacnn-pred_multiseed_ABLATION-ONWARD.ipynb
+cmapss-prediction.ipynb
 ```
-
-The second notebook is intended to begin from the later experimental sections and can therefore be used alongside the main notebook to parallelize computation.
 
 ## 4. Inspect the Results
 
@@ -415,6 +412,6 @@ These considerations are part of the reason the project evaluates the model from
 
 # License
 
-This project is licensed under the **MIT License**.
+This project is licensed under thae **MIT License**.
 
 See the [`LICENSE`](LICENSE) file for the full license text.
