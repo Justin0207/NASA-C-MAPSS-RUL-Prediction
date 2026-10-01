@@ -297,7 +297,7 @@ This makes it possible to inspect both aggregate performance and the variability
 # Repository Structure
 
 ```text
-sacnn-pred_multiseed.ipynb
+cmapss-prediction.ipynb
 │
 ├── Data preprocessing
 ├── SA-CNN-GRU-DE
@@ -306,10 +306,6 @@ sacnn-pred_multiseed.ipynb
 ├── Performance comparison
 ├── Statistical analysis
 └── Full experimental pipeline
-
-
-sacnn-pred_multiseed_ABLATION-ONWARD.ipynb
-│
 ├── Ablation study
 ├── Cross-dataset generalization
 ├── Feature attribution
